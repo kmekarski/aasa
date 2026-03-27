@@ -1,0 +1,17 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": ["3W4X477LCQ.com.vehis.vehis20"],
+        "components": [
+          {
+            "/": "/hashId/*"
+          },
+          {
+            "/": "/*"
+          }
+        ]
+      }
+    ]
+  }
+}
